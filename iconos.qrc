@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="copy">iconfinder_Copy_1493280.png</file>
+        <file alias="open">iconfinder_document-open_118911.png</file>
+        <file alias="save">iconfinder_floppy_285657.png</file>
+        <file alias="ppal">iconfinder_icon-45-note-list_315167.png</file>
+        <file alias="paste">iconfinder_paste_40823.png</file>
+        <file alias="close">iconfinder_revisi_04_2191538.png</file>
+    </qresource>
+</RCC>
